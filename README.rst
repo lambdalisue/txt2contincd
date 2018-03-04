@@ -8,15 +8,15 @@ txt2contincd
     :target: https://coveralls.io/r/lambdalisue/txt2contincd/
     :alt: Coverage
 
-.. image:: https://pypip.in/d/txt2contincd/badge.png
+.. image:: https://img.shields.io/pypi/dm/txt2contincd.svg
     :target: https://pypi.python.org/pypi/txt2contincd/
     :alt: Downloads
 
-.. image:: https://pypip.in/v/txt2contincd/badge.png
+.. image:: https://img.shields.io/pypi/v/txt2contincd.svg
     :target: https://pypi.python.org/pypi/txt2contincd/
     :alt: Latest version
 
-.. image:: https://pypip.in/wheel/txt2contincd/badge.png
+.. image:: https://img.shields.io/pypi/wheel/txt2contincd.svg
     :target: https://pypi.python.org/pypi/txt2contincd/
     :alt: Wheel Status
 
@@ -24,7 +24,7 @@ txt2contincd
     :target: https://pypi.python.org/pypi/txt2contincd/
     :alt: Egg Status
 
-.. image:: https://pypip.in/license/txt2contincd/badge.png
+.. image:: https://img.shields.io/pypi/l/txt2contincd.svg
     :target: https://pypi.python.org/pypi/txt2contincd/
     :alt: License
 
